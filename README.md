@@ -9,3 +9,7 @@ using bayesian inference
 * Language : Pyhon3
 * IDLE : jupyter notebook
 * library : scipy,pymc3,arviz
+
+## data source
+* https://github.com/jihoo-kim/Coronavirus-Dataset
+* https://github.com/CSSEGISandData/COVID-19
